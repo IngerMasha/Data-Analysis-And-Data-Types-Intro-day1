@@ -1,0 +1,26 @@
+Exercise 3: Identifying Data Types
+
+
+Objective: Learn To Identify Different Data Types.
+Task:
+For the datasets from the previous exercise, categorize each column of it as either quantitative or qualitative and explain your reasoning.
+
+ index  Year  Period  Avg hrs per day sleeping  Standard Error Type of Days  \
+0      0  2003  Annual                      8.57           0.018     All days   
+1      1  2004  Annual                      8.55           0.026     All days   
+2      2  2005  Annual                      8.62           0.023     All days   
+3      3  2006  Annual                      8.63           0.024     All days   
+4      4  2007  Annual                      8.57           0.024     All days   
+
+           Age Group  Activity   Sex  
+0  15 years and over  Sleeping  Both  
+1  15 years and over  Sleeping  Both  
+2  15 years and over  Sleeping  Both  
+3  15 years and over  Sleeping  Both  
+4  15 years and over  Sleeping  Both 
+
+Quantitative:
+index, Year, Avg hrs per day sleeping, Standard Error, 
+
+Qualitative:
+Period, Type of Days, Age Group, Activity,Sex
